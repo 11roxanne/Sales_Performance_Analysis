@@ -1,6 +1,6 @@
 # Sales Performance_Analysis
 
-This project involves analyzing sales data using SQL Server (SQL Express) and Power BI Desktop. The project includes updating and cleaning the Data Warehouse data, preparing it for export, and creating a comprehensive dashboard in Power BI based on business requirements and user stories.
+This project involves analyzing sales data using SQL Server (SQL Express) and Power BI Desktop. The project includes updating and cleaning the data, preparing it for export, and creating a comprehensive dashboard in Power BI based on business requirements and user stories.
 
 # Technical Tools Used
 
